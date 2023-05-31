@@ -24,23 +24,23 @@ The Tomato Disease Classifier is a Python-based application that uses deep learn
 
 1. Clone the repository:
 
-```
+
 git clone https://github.com/your-username/tomato-disease-classifier.git
-```
+
 
 2. Install the required dependencies:
 
-```
+
 pip install -r requirements.txt
-```
+
 
 ## Usage
 
 1. Run the application:
 
-```
+
 python predict.py
-```
+
 
 2. Select an image of a tomato plant using the graphical user interface.
 3. View the predicted disease on the console.
@@ -62,9 +62,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Credits
-
-The Tomato Disease Classifier is based on the work of [OpenAI](https://openai.com/)'s ChatGPT model.
 
 ## Acknowledgments
 
