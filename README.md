@@ -20,7 +20,7 @@ The Tomato Disease Classifier is a Python-based application that uses deep learn
 - Provides a graphical user interface (GUI) for easy interaction.
 - Allows users to select an image of a tomato plant for disease classification.
 
-## Installation
+## Installation through terminal
 
 1. Clone the repository:
 
@@ -45,14 +45,7 @@ python predict.py
 2. Select an image of a tomato plant using the graphical user interface.
 3. View the predicted disease on the console.
 
-## Model Training
 
-If you're interested in training the model yourself, you can follow these steps:
-
-1. Collect and prepare a dataset of tomato plant images labeled with corresponding disease classes.
-2. Split the dataset into training and validation sets.
-3. Train the CNN model using the `train.py` script.
-4. Save the trained model as "tomato_model.h5".
 
 ## Contributing
 
@@ -60,7 +53,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 
 ## Acknowledgments
